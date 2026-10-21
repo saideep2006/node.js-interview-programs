@@ -1,5 +1,3 @@
-# node.js-interview-programs
-
 # Node.js Practice Programs
 
 This repository contains 14 Node.js lab programs covering core modules, asynchronous programming, file handling, streams, MongoDB, and Express.js.
