@@ -1,4 +1,4 @@
-console.log("Develop a Node.js program to execute functions asynchronously using setout timers");
+console.log("Develop a Node.js program to execute functions asynchronously using setTimer timers");
 import EventEmitter from "events";
 const e = new EventEmitter();
 const a = setTimeout(()=>
