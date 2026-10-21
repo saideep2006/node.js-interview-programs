@@ -1,0 +1,24 @@
+{
+  "name": "node.js-interview-programs",
+  "version": "1.0.0",
+  "description": "This repository contains 14 Node.js lab programs covering core modules, asynchronous programming, file handling, streams, MongoDB, and Express.js.",
+  "main": "npm1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saideep2006/node.js-interview-programs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "ES6",
+  "bugs": {
+    "url": "https://github.com/saideep2006/node.js-interview-programs/issues"
+  },
+  "homepage": "https://github.com/saideep2006/node.js-interview-programs#readme",
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}
