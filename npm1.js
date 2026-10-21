@@ -1,6 +1,6 @@
 import chalk from 'chalk';
-function pack(name, rollno)
+function pack(name, rollno, mail)
 {
     console.log(chalk.red(`My name is : ${name} and roll number is : ${rollno}`));
 }
-pack("Chaithanya sai", 280);
+pack("Chaithanya sai", 280, "b24cs280@kitws.ac.in");
